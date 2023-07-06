@@ -28,3 +28,9 @@
 - Support Vector Machine Classifier
 - K-nearest Neighbor
 - Random Forest
+
+## Cách chạy code
+
+![readmeIMG.png](readmeIMG.png)
+- Sử dụng nút khoanh đỏ để chạy lại toàn bộ từ đầu
+- Sử dụng nút khoanh vàng để chạy từng cell
