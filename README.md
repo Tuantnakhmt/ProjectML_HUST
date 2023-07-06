@@ -31,6 +31,6 @@
 
 ## Cách chạy code
 
-![readmeIMG.png](readmeIMG.png)
+![readmeIMGnew.png](readmeIMGnew.png)
 - Sử dụng nút khoanh đỏ để chạy lại toàn bộ từ đầu
 - Sử dụng nút khoanh vàng để chạy từng cell
